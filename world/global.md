@@ -12,8 +12,8 @@
 |名称|大小|详细信息|
 |--|--|--|
 |千鸟城| |[千鸟城](./islands/birdsCity.md)|
-|羽松岛| |[羽松岛](./islands/featherpineIsland.md)|
-|羽栗岛| |[羽栗岛](./islands/featherchestnutIsland.md)|
+|羽松岛| |[羽松岛](./islands/feapineIsland.md)|
+|羽栗岛| |[羽栗岛](./islands/feachestnutIsland.md)|
 |羽泽岛| |[羽泽岛](./islands/swampIsland.md)|
 
 ## [羽族词典](./dictionary.md)
